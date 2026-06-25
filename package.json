@@ -1,0 +1,21 @@
+{
+  "name": "ziptrrip-tech-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "client": "vite --config client/vite.config.js --host 127.0.0.1 --port 5173",
+    "server": "node server/index.js",
+    "build": "vite build --config client/vite.config.js",
+    "challenge:js": "node challenge-1/challenge1.js",
+    "challenge:java": "javac Challenge1.java && java Challenge1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "vite": "^7.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {}
+}

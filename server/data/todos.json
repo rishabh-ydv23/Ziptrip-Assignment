@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0d60bb32-ca4c-4f95-afc3-c9d2e9443d49",
+    "title": "Review Ziptrrip Interview Questions",
+    "description": "Practice aptitude, coding, HR questions, and revise Java OOP concepts.",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-06-27",
+    "createdAt": "2026-06-25T05:10:15.188Z",
+    "updatedAt": "2026-06-25T05:10:15.188Z"
+  },
+  {
+    "id": "todo-1",
+    "title": "Review challenge questions",
+    "description": "Read the prompt and confirm each requirement is covered.",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-06-30",
+    "createdAt": "2026-06-25T00:00:00.000Z",
+    "updatedAt": "2026-06-25T05:10:37.489Z"
+  },
+  {
+    "id": "todo-2",
+    "title": "Document app features",
+    "description": "Keep the feature list and API docs in markdown files.",
+    "completed": true,
+    "priority": "medium",
+    "dueDate": "2026-07-02",
+    "createdAt": "2026-06-25T00:05:00.000Z",
+    "updatedAt": "2026-06-25T00:05:00.000Z"
+  }
+]
